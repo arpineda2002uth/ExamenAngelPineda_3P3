@@ -47,3 +47,5 @@ Implementar un modelo básico de **Machine Learning** que identifique objetos en
 ## ✨ Autor
 **Ángel Ricardo Pineda Díaz**  
 Estudiante de la Universidad Tecnológica de Honduras (UTH)
+
+Hice lo que pude ingeniera una disculpa nada que me lo levanto streamlit cloud
